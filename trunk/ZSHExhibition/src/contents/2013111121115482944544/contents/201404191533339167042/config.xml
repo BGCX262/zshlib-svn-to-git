@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item category="item" id="201404191533339167042" type="imgtxt" name="测试-名称-图文类型" summary="测试-名称-图文类型" description="测试-名称-图文类型">
+    <photos>
+      <photo src="contents/images/2014041915333451613017.jpg" type="img" num="1"/>
+      <photo src="contents/images/2014050709362650060833.jpg" type="img" num="2"/>
+      <photo src="contents/images/2014050709362676696980.jpg" type="img" num="3"/>
+    </photos>
+    <thumbnails>
+      <thumbnail src="contents/thumbnails/2014041915333429782424.jpg" type="img" num="1"/>
+      <thumbnail src="contents/thumbnails/2014050709362543918620.jpg" type="img" num="1"/>
+      <thumbnail src="contents/thumbnails/2014050709362579085020.jpg" type="img" num="2"/>
+    </thumbnails>
+  </item>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root category="unfixedGallery" id="201405060916242935837" name="自建时间轴展厅测试0506">
+  <group type="unfixedSubTimeline" name="自建1号展厅" title="自建1号展厅" startEra="40年代" endEra="60年代" xNum="2000" zNum="12000" zStep="9000" ui="contents/ui/1.swf">
+    <cell name="动画类型展品测试" x="-2000" y="0" z="12000" thumbnail="contents/201404191533339167042/contents/thumbnails/2014041915333429782424.jpg" type="img" ui="contents/ui/1.swf" config="contents/201404191533339167042/config.xml"/>
+  </group>
+  <group type="unfixedSubTimeline" name="自建2号展厅" title="自建2号展厅" startEra="40年代" endEra="60年代" xNum="2000" zNum="12000" zStep="9000" ui="contents/ui/2.swf">
+    <cell name="动画类型展品测试" x="-2000" y="0" z="12000" thumbnail="contents/201404191533339167042/contents/thumbnails/2014041915333429782424.jpg" type="img" ui="contents/ui/1.swf" config="contents/201404191533339167042/config.xml"/>
+  </group>
+</root>

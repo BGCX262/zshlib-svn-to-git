@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root category="unfixedExhibition" id="2013111121264020678136" name="自建展馆测试">
+  <cell type="timeline" name="自建时间轴展厅测试" config="contents/2013111121153994819123/exhibitionConfig.xml" index="contents/2013111121153994819123/ZSHTimelinePro.swf"/>
+  <cell type="annulus" name="自建环形展厅测试" config="contents/2013111121115482944544/ringlikeConfig.xml" index="contents/2013111121115482944544/ZSHRinglikePro.swf"/>
+</root>
